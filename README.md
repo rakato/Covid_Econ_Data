@@ -7,3 +7,6 @@ Data Sets on Economic Effects of Covid
 
 
 [MTA Turnstile Data](http://web.mta.info/developers/turnstile.html)
+
+
+[NY Statewide Testing](https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e/data)
